@@ -1,0 +1,2 @@
+# summary_and_classify_remopoke
+リモートポケモン学会の発表を要約して、それを分類するモデルを作る
