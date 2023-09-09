@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "summary-and-classify-remopoke"
+version = "0.1.0"
+description = ""
+authors = ["fufufukakaka <demonstrundum@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.1.0"
+openai = "^0.28.0"
+llama-hub = "^0.0.29"
+llama-index = "^0.8.22"
+tqdm = "^4.66.1"
+nltk = "^3.8.1"
+youtube-transcript-api = "^0.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
