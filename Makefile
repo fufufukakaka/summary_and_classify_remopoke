@@ -1,5 +1,6 @@
 PWD      := $(shell pwd)
 PYTHON   := poetry run python
+PYSEN    := poetry run pysen
 export PYTHONPATH=$(PWD)
 export OPENAI_API_KEY
 
